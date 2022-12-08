@@ -16,6 +16,9 @@
 
 - [Все поля](https://github.com/alex-dev-2020/Employees/commit/b960abab2affd2f71bc78840e2b0cdedf7e4e81a) из Физической Таблицы
     - Упорядочиваем по периоду 
+- [+ 2-й Запрос в Пакете](https://github.com/alex-dev-2020/Employees/commit/ac072c7a3e673e0be1f5cc5d3b8b8ae55be0b584) 
+    - Временная Таблица
+        -  + Поле `АВТОНОМЕРЗАПИСИ() КАК НомерСтроки`
 
 
  
